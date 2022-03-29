@@ -63,6 +63,6 @@ After this, the API will return you the final credentials with an JSON schema li
 }
 ``` 
 # Questions
-If you have any question related to the API, please, contact us by the [email](mailto:onein528@outlook.com) that is given in our organization.
+If you have any question related to the API, please contact us by making an issue in this repository or [email](mailto:onein528@outlook.com) us.
 
 **Thanks for choosing FluentHub!** and if is not a disturb, give us an star!

@@ -1,0 +1,23 @@
+{
+    "name": "fluenthub-credentials-api",
+    "version": "0.0.1",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js",
+        "test_heroku": "heroku local web"
+    },
+    "keywords": [
+        "api",
+        "credentials"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "dotenv": "^16.0.0",
+        "express": "^4.17.1",
+        "jsonwebtoken": "^8.5.1"
+    }
+}

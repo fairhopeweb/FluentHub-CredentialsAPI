@@ -52,11 +52,11 @@ After this, the API will return you the final credentials with an JSON schema li
 {
 	"credentials": [
 	{
-	"id": {
-		"value":  "YOUR clientId"
-		},
-	"secret": {
-		"value":  "YOUR clientSecret"
+		"id": {
+			"value":  "YOUR clientId"
+			},
+		"secret": {
+			"value":  "YOUR clientSecret"
 			}
 		}
 	]
